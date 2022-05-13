@@ -6,7 +6,7 @@ Abstractive summarization realized by [graph4nlp](https://github.com/graph4ai/gr
 
 1. Run the Summarization example from [graph4nlp](https://github.com/graph4ai/graph4nlp) successfully in both local and [AutoDL](https://www.autodl.com/register?code=ed898b66-46ba-45a2-8ef8-1b4d6127f8ae), and give detailed guide about [usage](#Usage)
 
-2. Annotate the code (mostly in Chinese) and give details of implementation in [report](./report) (also written in Chinese)
+2. Annotate the code (mostly in Chinese) and give details of implementation in [report](./report.md) (also written in Chinese)
 
 3. Have [experiments](#Experiment) on four aspects which enriches the results of original example. To be specific, I tested the performance of different graph construction method, different graph encoder, different graph embedding generation method and different decoder mechanism.
 
@@ -53,7 +53,7 @@ Here I only give the dependency I used in cloud server ([AutoDL](https://www.aut
 
 ## Experiment
 
-Here's part of experimental results, more analysis about the experiment in [report](./report).
+Here's part of experimental results, more analysis about the experiment in [report](./report.md).
 
 | Compare graph construction methods | ROUGE-L(%) |
 | ---------------------------------- | :--------: |
